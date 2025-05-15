@@ -1,0 +1,16 @@
+artifact_uri: file:///home/adrien/Documents/jupyter/projet7/mlruns/400822005846558873/70d0a76e542d41f8914a0296fd19a391/artifacts
+deleted_time: 1724399042253
+end_time: 1724360926532
+entry_point_name: ''
+experiment_id: '400822005846558873'
+lifecycle_stage: deleted
+run_id: 70d0a76e542d41f8914a0296fd19a391
+run_name: fun-dolphin-276
+run_uuid: 70d0a76e542d41f8914a0296fd19a391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724360924288
+status: 3
+tags: []
+user_id: adrien
