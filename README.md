@@ -1,6 +1,5 @@
 <h1 style="text-align: center; font-size: 35px;">Implémentation d'un modèle de scoring</h1>
 
-
 <div style = "text-align: center;">
     <img src = "https://user.oc-static.com/upload/2023/03/22/16794938722698_Data%20Scientist-P7-01-banner.png", alt="Bannière" style="width: 70%">
 </div>
@@ -46,7 +45,6 @@ rm home-credit-default-risk.zip
 - **`dashboard/`** &rarr; Dossier comportant les fichiers python pour l'API et le dashboard Streamlit <br>
 ├── api_flask.py &rarr; Code source de l'API <br>
 ├── dashboard_interface.py &rarr; Code source du dashboard Streamlit <br>
-Tu vTTuTu 
 ├── dashboard_fonctions.py &rarr; Fonctions python utilisées dans l'interface du dashboard <br>
 ├── dashboard_fonctions_test.py &rarr; Fonctions testées lors du push sur GitHub <br>
 ├── pytest_requirements.txt &rarr; Liste des librairies nécessaires pour les tests unitaires <br>
