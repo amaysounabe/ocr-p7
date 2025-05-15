@@ -18,6 +18,14 @@ kaggle competitions download -c home-credit-default-risk
 
 (Vous aurez besoin d'un compte sur le site Kaggle et d'une clé d'API)
 
+Afin d'installer les données correctement, une fois le répertoire cloné, assurez-vous que l'archive des données est dans le répertoire `../ocr-p7/`. <br>
+Ensuite, effectuez les commandes suivantes :
+```bash
+cd ocr-p7
+unzip home-credit-default-risk.zip -d data/csv_files
+rm home-credit-default-risk.zip
+```
+
 ### Objectifs
 - Mise en oeuvre d'un outil de **scoring crédit** qui calcule la probabilité qu'un client rembourse son crédit
 - Mise en production du modèle de classification à l'aide d'une **API**
